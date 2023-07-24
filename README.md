@@ -11,10 +11,4 @@ Simple Contact List App using Vue.js
 * [Bootstrap](https://vuejs.org/) - Css Front-End Framework
 * [SASS](http://sass-lang.com/) - Pre-Css Compiler
 
-## Author
 
-**germancutraro**
-
-## Why
-
-* Practise
